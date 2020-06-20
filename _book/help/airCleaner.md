@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/AirPurifier.png)
+![](http://www.cspugoing.com/pcimg/help/jinghuaqi.png)
 
 # 空气净化器
 

@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/SmokeSensor.png)
+![](http://www.cspugoing.com/pcimg/help/SmokeSensor.png)
 
 # 烟雾传感器
 

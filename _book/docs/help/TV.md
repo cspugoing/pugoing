@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/TV.png)
+
 # 电视
 
 *带红外遥控器控制的电视

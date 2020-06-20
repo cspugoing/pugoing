@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/protocol.png)
+![](http://www.cspugoing.com/pcimg/help/protocol.png)
 
 # 协议器
 

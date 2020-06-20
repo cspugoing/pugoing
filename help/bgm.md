@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/BGM.png)
+![](http://www.cspugoing.com/pcimg/help/BGM.png)
 
 # 背景音乐
 

@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/AirConditioning.png)
+![](http://www.cspugoing.com/pcimg/help/AirConditioning.png)
 
 # 空调(带红外遥控器)
 

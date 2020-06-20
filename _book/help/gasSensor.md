@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/pcimg/product/lighting/qiti.png)
+![](http://www.cspugoing.com/pcimg/help/qiti.png)
 
 # 气体传感器
 

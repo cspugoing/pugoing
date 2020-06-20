@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/ClothesHorse.png)
+![](http://www.cspugoing.com/pcimg/help/ClothesHanger.png)
 
 # 晾衣架
 

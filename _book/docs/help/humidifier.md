@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/Humidifier.png)
+
 # 加湿器
 
 *带红外遥控器的加湿器

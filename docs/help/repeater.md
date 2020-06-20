@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/repeater.png)
+![](http://www.cspugoing.com/pcimg/help/repeater.png)
 
 # 中继器
 

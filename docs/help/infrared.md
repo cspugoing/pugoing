@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/pcimg/product/lighting/InfraredExtension.png)
+![](http://www.cspugoing.com/pcimg/help/InfraredExtension.png)
 
 # 红外分机
 

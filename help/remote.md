@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/Remote.png)
+![](http://www.cspugoing.com/pcimg/help/Remote.png)
 
 # 报警遥控器
 

@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/BGM.png)
+
 # 背景音乐
 
 #### 背景音乐接入系统：

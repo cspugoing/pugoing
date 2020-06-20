@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/pcimg/product/lighting/HumanSensor.png)
+![](http://www.cspugoing.com/pcimg/help/HumanSensor.png)
 
 # 人体传感器
 

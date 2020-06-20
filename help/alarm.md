@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/Alarm.png)
+![](http://www.cspugoing.com/pcimg/help/Alarm.png)
 
 # 声光报警器
 

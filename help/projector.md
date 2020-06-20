@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/Projector.png)
+![](http://www.cspugoing.com/pcimg/help/Projector.png)
 
 # 投影仪
 

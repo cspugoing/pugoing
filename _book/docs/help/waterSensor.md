@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/shuijin.png)
+
 # 水浸传感器
 
 #### 水浸传感器接入系统：

@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/pcimg/product/lighting/doorLock.png)
+![](http://www.cspugoing.com/pcimg/help/doorLock.png)
 
 # 智能门锁
 

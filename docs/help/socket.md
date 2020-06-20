@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/SmartPlug.png)
+![](http://www.cspugoing.com/pcimg/help/Socket.png)
 
 # 智能插座
 

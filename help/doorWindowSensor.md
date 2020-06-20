@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/DoorwindowSensor.png)
+![](http://www.cspugoing.com/pcimg/help/DoorWindowSensor.png)
 
 # 门窗传感器
 

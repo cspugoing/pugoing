@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/pcimg/product/lighting/CurtainSensor.png)
+![](http://www.cspugoing.com/pcimg/help/CurtainSensor.png)
 
 # 红外幕帘传感器
 

@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/CurtainMotor.png)
+
 # 窗帘电机
 
 #### 窗帘电机对接系统：

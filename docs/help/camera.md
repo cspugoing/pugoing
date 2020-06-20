@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/Camera.png)
+![](http://www.cspugoing.com/pcimg/help/Camera.png)
 
 # 摄像头
 

@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/HumanSensor.png)
+
 # 人体传感器
 
 #### 人体传感器接入系统：

@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/qiti.png)
+
 # 气体传感器
 
 #### 气体传感器接入系统：

@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/TV.png)
+![](http://www.cspugoing.com/pcimg/help/TV.png)
 
 # 电视
 

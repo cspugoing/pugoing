@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/RainSensor.png)
+![](http://www.cspugoing.com/pcimg/help/WeatherSensor.png)
 
 # 风雨传感器
 

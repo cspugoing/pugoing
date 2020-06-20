@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/Projector.png)
+
 # 投影仪
 
 #### 投影仪接入系统：

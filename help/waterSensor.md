@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/WaterSensor.png)
+![](http://www.cspugoing.com/pcimg/help/shuijin.png)
 
 # 水浸传感器
 

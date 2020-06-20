@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/switch.png)
+![](http://www.cspugoing.com/pcimg/help/switch.png)
 
 # 智能开关
 

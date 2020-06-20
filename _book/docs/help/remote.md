@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/Remote.png)
+
 # 报警遥控器
 
 #### 报警遥控器接入系统：

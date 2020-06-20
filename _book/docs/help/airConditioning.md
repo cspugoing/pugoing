@@ -1,4 +1,7 @@
+![](http://www.cspugoing.com/pcimg/help/AirConditioning.png)
+
 # 空调(带红外遥控器)
+
 #### 空调接入系统：
 
 a) 唤醒主机后语音命令“学习空调遥控器”

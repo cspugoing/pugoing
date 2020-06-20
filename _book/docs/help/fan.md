@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/Fan.png)
+
 # 电风扇
 
 *带红外遥控器控制的风扇

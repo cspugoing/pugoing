@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/Fan.png)
+![](http://www.cspugoing.com/pcimg/help/Fan.png)
 
 # 电风扇
 

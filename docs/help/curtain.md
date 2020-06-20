@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/Curtain.png)
+![](http://www.cspugoing.com/pcimg/help/CurtainMotor.png)
 
 # 窗帘电机
 

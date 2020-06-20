@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/sceneP.png)
+
 # 情景面板
 
 #### 情景面板接入系统步骤：

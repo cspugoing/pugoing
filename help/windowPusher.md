@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/WindowPusher.png)
+![](http://www.cspugoing.com/pcimg/help/WindowPusher.png)
 
 # 推窗器
 

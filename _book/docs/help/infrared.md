@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/InfraredExtension.png)
+
 # 红外分机
 
 #### 红外分机对接系统：

@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/Socket.png)
+
 # 智能插座
 
 #### 智能插座接入系统：

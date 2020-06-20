@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/sceneP.png)
+![](http://www.cspugoing.com/pcimg/help/sceneP.png)
 
 # 情景面板
 

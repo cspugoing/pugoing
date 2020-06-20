@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/SOS.png)
+
 # 紧急按钮
 
 #### 紧急按钮接入系统：

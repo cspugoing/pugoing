@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/DoorWindowSensor.png)
+
 # 门窗传感器
 
 #### 门窗传感器接入系统：

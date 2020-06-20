@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/switch.png)
+
 # 智能开关
 
 #### 智能开关接入系统步骤：

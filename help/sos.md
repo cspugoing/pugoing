@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/SOS.png)
+![](http://www.cspugoing.com/pcimg/help/SOS.png)
 
 # 紧急按钮
 

@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/VRV.png)
+![](http://www.cspugoing.com/pcimg/help/VRV.png)
 
 # 中央空调
 

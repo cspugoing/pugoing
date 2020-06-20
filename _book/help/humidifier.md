@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/Humidifier.png)
+![](http://www.cspugoing.com/pcimg/help/Humidifier.png)
 
 # 加湿器
 

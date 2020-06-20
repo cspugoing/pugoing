@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/repeater.png)
+
 # 中继器
 
 #### 中继器调试入网：

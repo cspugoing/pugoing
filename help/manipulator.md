@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/img/shiwu/Manipulator.png)
+![](http://www.cspugoing.com/pcimg/help/Manipulator.png)
 
 # 机械手
 

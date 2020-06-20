@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/Camera.png)
+
 # 摄像头
 
 #### 摄像头接入系统：

@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/CurtainSensor.png)
+
 # 红外幕帘传感器
 
 #### 红外幕帘接入系统：

@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/pcimg/product/lighting/module.png)
+![](http://www.cspugoing.com/pcimg/help/module.png)
 
 # 通用模块
 

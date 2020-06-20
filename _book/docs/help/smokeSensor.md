@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/SmokeSensor.png)
+
 # 烟雾传感器
 
 #### 烟雾传感器接入系统：

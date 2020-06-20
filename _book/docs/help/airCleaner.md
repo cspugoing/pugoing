@@ -1,4 +1,7 @@
+![](http://www.cspugoing.com/pcimg/help/jinghuaqi.png)
+
 # 空气净化器
+
 #### 空气净化器接入系统：
 
 a) 唤醒主机后语音命令“学习空气净化器遥控器”

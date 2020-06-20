@@ -1,4 +1,4 @@
-![](http://www.cspugoing.com/pcimg/product/lighting/NetworkBox.png)
+![](http://www.cspugoing.com/pcimg/help/NetworkBox.png)
 
 # 网络盒子
 

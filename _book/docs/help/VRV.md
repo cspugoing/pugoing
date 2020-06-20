@@ -1,3 +1,5 @@
+![](http://www.cspugoing.com/pcimg/help/VRV.png)
+
 # 中央空调
 
 #### 中央空调接入系统：
