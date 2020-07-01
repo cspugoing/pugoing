@@ -4,8 +4,8 @@
 * [联网设置](help/smlw.md)
 * [首页](help/home.md)
 * [交互](help/interactive.md)
-* [设备](help/switch.md)
-    * [添加设备|解绑](help/switch.md)
+* 设备
+    * 添加设备|解绑
         * [智能开关](help/switch.md)
         * [情景面板](help/sceneP.md)
         * [通用模块](help/module.md)
@@ -40,7 +40,7 @@
         * [风雨传感器](help/weatherSensor.md)
         * [推窗器](help/windowPusher.md)
         * [常见433射频设备开关](help/common433RFSwitch.md)
-    * [功能设置](help/chooseRoom.md)
+    * 功能设置
         * [选择房间](help/chooseRoom.md)
         * [信号中继](help/InfraredRelay.md)
         * [区域标识](help/areaIdentification.md)
@@ -48,21 +48,21 @@
         * [分配灯光](help/chooseLight.md)
         * [替换设备](help/updDevice.md)
         * [删除设备](help/delDevice.md)
-    * [自定义设备](help/garage.md)
+    * 自定义设备
         * [自定义车库](help/garage.md)
         * [自定义删除按键](help/deleteKey.md)
-* [智能](help/establish.md)
+* 智能
     * [添加场景](help/establish.md)
     * [拷贝场景](help/copyEstablish.md)
     * [快捷方式](help/shortcuts.md)
     * [删除场景](help/delEstablish.md)
     * [修改场景](help/updEstablish.md)
-* [我的](help/configureNetwork.md)
+* 我的
     * [配置联网](help/configureNetwork.md)
     * [我的房间](help/myRoom.md)
     * [我的管家](help/myButler.md)
     * [我的家人](help/myFamily.md)
-    * [系统管理](help/variables.md)
+    * 系统管理
         * [我的变量](help/variables.md)
         * [系统设置](help/system.md)
     * [修改主机信息](help/updSystem.md)
