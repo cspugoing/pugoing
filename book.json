@@ -6,7 +6,7 @@
         "expandable-chapters",
         "chapter-fold",
         "hide-element",
-        "-sharing"
+        "-sharing","back-to-top-button"
     ],
     "pluginsConfig": {
         "hide-element": {
