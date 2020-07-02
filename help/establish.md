@@ -2,6 +2,8 @@
 
 #### 添加定时场景：
 
+场景定时执行，方便提醒开会或吃药
+
 ![](http://open.cspugoing.com/img/help/establish-1.gif)
 
 #### 添加事件场景：

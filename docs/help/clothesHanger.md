@@ -1,6 +1,6 @@
 ![](http://www.cspugoing.com/pcimg/help/ClothesHanger.png)
 
-# 晾衣架
+# 晾衣架（第三方设备）
 
 *晾衣架为433射频的，自带遥控器
 

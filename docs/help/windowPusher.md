@@ -1,6 +1,8 @@
 ![](http://www.cspugoing.com/pcimg/help/WindowPusher.png)
 
-# 推窗器
+# 推窗器（第三方设备）
+
+*推窗器带433射频遥控
 
 #### 推窗器接入系统：
 

@@ -1,6 +1,8 @@
 ![](http://www.cspugoing.com/pcimg/help/WeatherSensor.png)
 
-# 风雨传感器
+# 风雨传感器（第三方设备）
+
+*通讯方式为433射频
 
 #### 风雨传感器接入系统：
 
